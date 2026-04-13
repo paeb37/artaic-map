@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Brandon Pae</Author>
+  <LastAuthor>Brandon Pae</LastAuthor>
+  <Created>2023-02-28T00:07:53Z</Created>
+  <LastSaved>2023-03-24T15:01:14Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>16260</WindowHeight>
+  <WindowWidth>28040</WindowWidth>
+  <WindowTopX>760</WindowTopX>
+  <WindowTopY>500</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s57" ss:Name="Hyperlink">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#0563C1"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s59">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="13" ss:Color="#171717"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Artaic Installations">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="39" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:AutoFitWidth="0" ss:Width="43"/>
+   <Column ss:AutoFitWidth="0" ss:Width="369"/>
+   <Column ss:AutoFitWidth="0" ss:Width="239"/>
+   <Column ss:AutoFitWidth="0" ss:Width="103"/>
+   <Column ss:AutoFitWidth="0" ss:Width="97"/>
+   <Column ss:AutoFitWidth="0" ss:Width="549"/>
+   <Row>
+    <Cell><Data ss:Type="String">id</Data></Cell>
+    <Cell><Data ss:Type="String">address</Data></Cell>
+    <Cell><Data ss:Type="String">title</Data></Cell>
+    <Cell><Data ss:Type="String">tile type</Data></Cell>
+    <Cell><Data ss:Type="String">square footage</Data></Cell>
+    <Cell><Data ss:Type="String">link</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">2831 Boardwalk, Atlantic City, NJ 08401</Data></Cell>
+    <Cell><Data ss:Type="String">Tropicana Cielo Suites</Data></Cell>
+    <Cell><Data ss:Type="String">Sintered Glass</Data></Cell>
+    <Cell><Data ss:Type="Number">830</Data></Cell>
+    <Cell><Data ss:Type="String">https://artaic.com/installations/tropicana-hotel-bathroom-floral-vine-glass-tile-mosaic-border-detail/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">498 Red Apple Court, Woodbury, NY 10917</Data></Cell>
+    <Cell><Data ss:Type="String">Woodbury Premium Outlets</Data></Cell>
+    <Cell><Data ss:Type="String">Sintered Glass</Data></Cell>
+    <Cell><Data ss:Type="Number">425</Data></Cell>
+    <Cell><Data ss:Type="String">https://artaic.com/installations/woodbury-premium-outlets-floor-medallion/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Flatiron Domain, 10727 Domain Dr, Austin, TX 78758, USA</Data></Cell>
+    <Cell><Data ss:Type="String">Waldrop Nichols Domain</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell><Data ss:Type="Number">164</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Forest Park 1088 Park Plaza Drive Austin, TX 78753</Data></Cell>
+    <Cell><Data ss:Type="String">NRG Forest Park Austin</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell><Data ss:Type="Number">439</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="String">Silicon Labs, 400 W Cesar Chavez St, Austin, TX 78701, USA</Data></Cell>
+    <Cell><Data ss:Type="String">Silicon Labs Gensler Trinity</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell><Data ss:Type="Number">96.53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="String">16738 State Highway 71, Lakeway, TX 78738, USA</Data></Cell>
+    <Cell><Data ss:Type="String">Chase Austin TX</Data></Cell>
+    <Cell><Data ss:Type="String">Sintered Glass</Data></Cell>
+    <Cell><Data ss:Type="Number">211.44</Data></Cell>
+    <Cell><Data ss:Type="String">https://artaic.com/installations/chase-banks/</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="String">Hotel Indigo Austin Downtown, 810 Red River Street Austin, TX 78701, USA</Data></Cell>
+    <Cell><Data ss:Type="String">Hotel Indigo Mad Hospitality</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell><Data ss:Type="Number">21.44</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/943089515</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="String">Texas Health Action, 101 W Koenig Lane, Austin, TX 78761, USA</Data></Cell>
+    <Cell><Data ss:Type="String">S. Tipton Studio - Mirror Tile TX Health Action</Data></Cell>
+    <Cell><Data ss:Type="String">Smalti Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">354.42</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/1337189081</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell><Data ss:Type="String">Hilltop Senior Living, 525 S Holly St, Denver, CO 80246, USA</Data></Cell>
+    <Cell><Data ss:Type="String">Hilltop Senior Living Studio Six5</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">100.89</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/1442258743</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="String">251 US-1 Ste 101, Falmouth, ME 04105, USA</Data></Cell>
+    <Cell><Data ss:Type="String">Nicola's Home - Maeve Addition</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">40.729999999999997</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/1456562526</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">11</Data></Cell>
+    <Cell><Data ss:Type="String">Fremont, CA 94538</Data></Cell>
+    <Cell><Data ss:Type="String">The Vista Refab</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">90.66</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/382584446</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+    <Cell><Data ss:Type="String">200 Archway Ct, Lynchburg, VA 24502, USA</Data></Cell>
+    <Cell><Data ss:Type="String">Logo Wyndhurst Medical</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">23.23</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/428024441</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">13</Data></Cell>
+    <Cell><Data ss:Type="String">6350 Hollister Ave, Goleta, CA 93117</Data></Cell>
+    <Cell><Data ss:Type="String">Sand Design Residence Inn Refab</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">20.22</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/432603498</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">14</Data></Cell>
+    <Cell><Data ss:Type="String">60 Tanager Way, Grand Cayman KY1-1303, Cayman Islands</Data></Cell>
+    <Cell><Data ss:Type="String">Kimpton Grand Cayman</Data></Cell>
+    <Cell><Data ss:Type="String">Unglazed Porcelain</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">200</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="String">Kula, Hawaii, 96790</Data></Cell>
+    <Cell><Data ss:Type="String">McDermott Front Entry</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">55.74</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/435674520</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="String">Kula, Hawaii, 96790</Data></Cell>
+    <Cell><Data ss:Type="String">McDermott Refab</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">55.74</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">17</Data></Cell>
+    <Cell><Data ss:Type="String">Saddle River, New Jersey 07458</Data></Cell>
+    <Cell><Data ss:Type="String">Home Owner Bathroom Wall</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">85.45</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/454595484</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">18</Data></Cell>
+    <Cell><Data ss:Type="String">Wayne, New Jersey 07470</Data></Cell>
+    <Cell><Data ss:Type="String">Midtown Pool Additional</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">116.17</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">19</Data></Cell>
+    <Cell><Data ss:Type="String">Belmont, MA 02478</Data></Cell>
+    <Cell><Data ss:Type="String">Gupta Shower Refab</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">68.52</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="String">49 Veronica Ave. Somerset, NJ 08873</Data></Cell>
+    <Cell><Data ss:Type="String">Quest Additional</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">66.489999999999995</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">21</Data></Cell>
+    <Cell><Data ss:Type="String">100 Riverside Blvd, New York, NY 10069</Data></Cell>
+    <Cell><Data ss:Type="String">Avery Condominium</Data></Cell>
+    <Cell><Data ss:Type="String">Sintered Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">506.4</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/1351966958</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">22</Data></Cell>
+    <Cell><Data ss:Type="String">499 Mayfield Rd, Clarion, PA 16214</Data></Cell>
+    <Cell><Data ss:Type="String">YMCA Clarion</Data></Cell>
+    <Cell><Data ss:Type="String">Sintered Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">102.82</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/548724937</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">23</Data></Cell>
+    <Cell><Data ss:Type="String">Bartonville, TX, 76226</Data></Cell>
+    <Cell><Data ss:Type="String">Chase Bank Bartonville, TX</Data></Cell>
+    <Cell><Data ss:Type="String">Sintered Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">117.36</Data></Cell>
+    <Cell><Data ss:Type="String">https://artaic.com/installations/chase-banks/</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">24</Data></Cell>
+    <Cell><Data ss:Type="String">2505 Cedar Lane Vienna, VA 22180</Data></Cell>
+    <Cell><Data ss:Type="String">Thoreau school logo</Data></Cell>
+    <Cell><Data ss:Type="String">Glazed Porcelain</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">103.55</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/608930526</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">25</Data></Cell>
+    <Cell><Data ss:Type="String">5050 Ave Maria Blvd, Ave Maria, FL 34142</Data></Cell>
+    <Cell><Data ss:Type="String">Ave Maria Univ - Pope and Teresa</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">185.94</Data></Cell>
+    <Cell ss:StyleID="s57" ss:HRef="https://www.google.com/search?q=Ave+Maria+University+mosaic&amp;rlz=1C5CHFA_enUS797US813&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwiO1_bUt7f9AhVyF1kFHUAXDn0Q_AUoAXoECAEQAw&amp;biw=1440&amp;bih=702&amp;dpr=2#imgrc=Rq88VPvDp78nhM"><Data
+      ss:Type="String">https://www.google.com/search?q=Ave+Maria+University+mosaic&amp;rlz=1C5CHFA_enUS797US813&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwiO1_bUt7f9AhVyF1kFHUAXDn0Q_AUoAXoECAEQAw&amp;biw=1440&amp;bih=702&amp;dpr=2#imgrc=Rq88VPvDp78nhM</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">26</Data></Cell>
+    <Cell><Data ss:Type="String">37 Pleasant St, Brunswick, ME 04011</Data></Cell>
+    <Cell><Data ss:Type="String">Catholic School - Exterior mosaics</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">37.01</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">27</Data></Cell>
+    <Cell><Data ss:Type="String">Ponte Vedra Beach, FL, 32082</Data></Cell>
+    <Cell><Data ss:Type="String">Beth Donner - Ruth Chris - Ponte Verde</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">68.900000000000006</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/629065409</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">28</Data></Cell>
+    <Cell><Data ss:Type="String">708 N 600 E, Fair Oaks, IN 47943</Data></Cell>
+    <Cell><Data ss:Type="String">Fairfield Inn Marriott Fair Oaks Farms</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">821.4</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/609764329</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">29</Data></Cell>
+    <Cell><Data ss:Type="String">25 Mountainview Blvd. Unit 1. Basking Ridge , NJ 07920</Data></Cell>
+    <Cell><Data ss:Type="String">Chase Basking Ridge, NJ</Data></Cell>
+    <Cell><Data ss:Type="String">Sintered Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">105.72</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="String">Lincoln, CA</Data></Cell>
+    <Cell><Data ss:Type="String">Red Leaf Water Feature</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">55.8</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/582580303</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">31</Data></Cell>
+    <Cell><Data ss:Type="String">5768 Buford Hwy NE, Doraville, GA 30340</Data></Cell>
+    <Cell><Data ss:Type="String">Chase bank mosaic - Doraville, GA</Data></Cell>
+    <Cell><Data ss:Type="String">Sintered Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">126.69</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/629766712</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">32</Data></Cell>
+    <Cell><Data ss:Type="String">Menlo Park, CA</Data></Cell>
+    <Cell><Data ss:Type="String">Shower Wall Peterson</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">42.75</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/659915002</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">33</Data></Cell>
+    <Cell><Data ss:Type="String">6402 Roosevelt Way NE, Seattle, WA 98115</Data></Cell>
+    <Cell><Data ss:Type="String">Chase Bank 64th &amp; Roosevelt, Seattle, Wa.</Data></Cell>
+    <Cell><Data ss:Type="String">Sintered Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">79.010000000000005</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/616074150</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">34</Data></Cell>
+    <Cell><Data ss:Type="String">Norway</Data></Cell>
+    <Cell><Data ss:Type="String">Norway Airport Restrooms</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">54.05</Data></Cell>
+    <Cell><Data ss:Type="String">https://artaic.com/installations/norway-airport/</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="String">215 W Boyd St. Norman , OK 73069</Data></Cell>
+    <Cell><Data ss:Type="String">Chase Norman Refab</Data></Cell>
+    <Cell><Data ss:Type="String">Sintered Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">74.8</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">36</Data></Cell>
+    <Cell><Data ss:Type="String">South Pasadena, CA, 91030</Data></Cell>
+    <Cell><Data ss:Type="String">Design Twenty 7 Pool</Data></Cell>
+    <Cell><Data ss:Type="String">Virtreous Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">62.02</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/850812688</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">37</Data></Cell>
+    <Cell><Data ss:Type="String">300 East Illinois Road, Lake Forest, IL 60045</Data></Cell>
+    <Cell><Data ss:Type="String">Chase Bank Lake Forest - Retro</Data></Cell>
+    <Cell><Data ss:Type="String">Sintered Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">79.87</Data></Cell>
+   </Row>
+   <Row ss:Height="17">
+    <Cell><Data ss:Type="Number">38</Data></Cell>
+    <Cell><Data ss:Type="String">North Miami, Florida</Data></Cell>
+    <Cell><Data ss:Type="String">Chase - North Miami</Data></Cell>
+    <Cell><Data ss:Type="String">Sintered Glass</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">127.01</Data></Cell>
+    <Cell><Data ss:Type="String">https://files.podio.com/675783029</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Zoom>75</Zoom>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

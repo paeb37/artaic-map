@@ -1,0 +1,475 @@
+[LOG] 2023-03-28 17:11:54 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/03/Artaic-Test-4-4.csv
+[LOG] 2023-03-28 17:12:09 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/03/Artaic-Test-4-4.csv
+[LOG] 2023-03-28 17:12:09 :- Headers found, skipping row
+[LOG] 2023-03-28 17:12:09 :- Attempting to geocode 2831 Boardwalk, Atlantic City, NJ 08401
+[LOG] 2023-03-28 17:12:09 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:10 :- Geocode successful (39.3523692, -74.4445618)
+[LOG] 2023-03-28 17:12:10 :- Attempting to geocode 498 Red Apple Court, Woodbury, NY 10917
+[LOG] 2023-03-28 17:12:10 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:10 :- Geocode successful (41.3162964, -74.1257144)
+[LOG] 2023-03-28 17:12:11 :- Attempting to geocode Flatiron Domain, 10727 Domain Dr, Austin, TX 78758, USA
+[LOG] 2023-03-28 17:12:11 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:11 :- Geocode successful (30.3935303, -97.7255418)
+[LOG] 2023-03-28 17:12:11 :- Attempting to geocode Forest Park 1088 Park Plaza Drive Austin, TX 78753
+[LOG] 2023-03-28 17:12:11 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:11 :- Geocode successful (30.3487359, -97.6839735)
+[LOG] 2023-03-28 17:12:12 :- Attempting to geocode Silicon Labs, 400 W Cesar Chavez St, Austin, TX 78701, USA
+[LOG] 2023-03-28 17:12:12 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:12 :- Geocode successful (30.2648107, -97.748544)
+[LOG] 2023-03-28 17:12:12 :- Attempting to geocode 16738 State Highway 71, Lakeway, TX 78738, USA
+[LOG] 2023-03-28 17:12:12 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:12 :- Geocode successful (30.3203266, -98.0063607)
+[LOG] 2023-03-28 17:12:13 :- Attempting to geocode Hotel Indigo Austin Downtown, 810 Red River Street Austin, TX 78701, USA
+[LOG] 2023-03-28 17:12:13 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:13 :- Geocode successful (30.2691308, -97.7366133)
+[LOG] 2023-03-28 17:12:13 :- Attempting to geocode Texas Health Action, 101 W Koenig Lane, Austin, TX 78761, USA
+[LOG] 2023-03-28 17:12:13 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:14 :- Geocode successful (30.3220923, -97.7200454)
+[LOG] 2023-03-28 17:12:14 :- Attempting to geocode Hilltop Senior Living, 525 S Holly St, Denver, CO 80246, USA
+[LOG] 2023-03-28 17:12:14 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:14 :- Geocode successful (39.7066688, -104.9230957)
+[LOG] 2023-03-28 17:12:14 :- Attempting to geocode 251 US-1 Ste 101, Falmouth, ME 04105, USA
+[LOG] 2023-03-28 17:12:14 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:15 :- Geocode successful (43.7261457, -70.2311778)
+[LOG] 2023-03-28 17:12:15 :- Attempting to geocode Fremont, CA 94538
+[LOG] 2023-03-28 17:12:15 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:15 :- Geocode successful (37.5042267, -121.9643745)
+[LOG] 2023-03-28 17:12:16 :- Attempting to geocode 200 Archway Ct, Lynchburg, VA 24502, USA
+[LOG] 2023-03-28 17:12:16 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:16 :- Geocode successful (37.363641, -79.246789)
+[LOG] 2023-03-28 17:12:16 :- Attempting to geocode 6350 Hollister Ave, Goleta, CA 93117
+[LOG] 2023-03-28 17:12:16 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:16 :- Geocode successful (34.4327351, -119.8446229)
+[LOG] 2023-03-28 17:12:17 :- Attempting to geocode 60 Tanager Way, Grand Cayman KY1-1303, Cayman Islands
+[LOG] 2023-03-28 17:12:17 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:17 :- Geocode successful (19.3221698, -81.2408689)
+[LOG] 2023-03-28 17:12:17 :- Attempting to geocode Kula, Hawaii, 96790
+[LOG] 2023-03-28 17:12:17 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:17 :- Geocode successful (20.791352, -156.3248772)
+[LOG] 2023-03-28 17:12:17 :- Attempting to geocode Kula, Hawaii, 96790
+[LOG] 2023-03-28 17:12:17 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:18 :- Geocode successful (20.791352, -156.3248772)
+[LOG] 2023-03-28 17:12:18 :- Attempting to geocode Saddle River, New Jersey 07458
+[LOG] 2023-03-28 17:12:18 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:18 :- Geocode successful (41.0317637, -74.1020866)
+[LOG] 2023-03-28 17:12:18 :- Attempting to geocode Wayne, New Jersey 07470
+[LOG] 2023-03-28 17:12:18 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:19 :- Geocode successful (40.9253725, -74.2765441)
+[LOG] 2023-03-28 17:12:19 :- Attempting to geocode Belmont, MA 02478
+[LOG] 2023-03-28 17:12:19 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:19 :- Geocode successful (42.3958849, -71.1745579)
+[LOG] 2023-03-28 17:12:19 :- Attempting to geocode 49 Veronica Ave. Somerset, NJ 08873
+[LOG] 2023-03-28 17:12:19 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:20 :- Geocode successful (40.478608, -74.5004132)
+[LOG] 2023-03-28 17:12:20 :- Attempting to geocode 100 Riverside Blvd, New York, NY 10069
+[LOG] 2023-03-28 17:12:20 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:20 :- Geocode successful (40.77577, -73.9895914)
+[LOG] 2023-03-28 17:12:21 :- Attempting to geocode 499 Mayfield Rd, Clarion, PA 16214
+[LOG] 2023-03-28 17:12:21 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:21 :- Geocode successful (41.1913009, -79.3843733)
+[LOG] 2023-03-28 17:12:21 :- Attempting to geocode Bartonville, TX, 76226
+[LOG] 2023-03-28 17:12:21 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:21 :- Geocode successful (33.0731775, -97.1316788)
+[LOG] 2023-03-28 17:12:21 :- Attempting to geocode 2505 Cedar Lane Vienna, VA 22180
+[LOG] 2023-03-28 17:12:21 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:22 :- Geocode successful (38.888557, -77.239571)
+[LOG] 2023-03-28 17:12:22 :- Attempting to geocode 5050 Ave Maria Blvd, Ave Maria, FL 34142
+[LOG] 2023-03-28 17:12:22 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:22 :- Geocode successful (26.3366663, -81.4372098)
+[LOG] 2023-03-28 17:12:22 :- Attempting to geocode 37 Pleasant St, Brunswick, ME 04011
+[LOG] 2023-03-28 17:12:22 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:23 :- Geocode successful (43.9129465, -69.9692292)
+[LOG] 2023-03-28 17:12:23 :- Attempting to geocode Ponte Vedra Beach, FL, 32082
+[LOG] 2023-03-28 17:12:23 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:23 :- Geocode successful (30.2400058, -81.3852595)
+[LOG] 2023-03-28 17:12:24 :- Attempting to geocode 708 N 600 E, Fair Oaks, IN 47943
+[LOG] 2023-03-28 17:12:24 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:24 :- Geocode successful (41.0086518, -87.2769655)
+[LOG] 2023-03-28 17:12:24 :- Attempting to geocode 25 Mountainview Blvd. Unit 1. Basking Ridge , NJ 07920
+[LOG] 2023-03-28 17:12:24 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:25 :- Geocode successful (40.6439071, -74.5772653)
+[LOG] 2023-03-28 17:12:25 :- Attempting to geocode Lincoln, CA
+[LOG] 2023-03-28 17:12:25 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:25 :- Geocode successful (38.891565, -121.2930079)
+[LOG] 2023-03-28 17:12:25 :- Attempting to geocode 5768 Buford Hwy NE, Doraville, GA 30340
+[LOG] 2023-03-28 17:12:25 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:26 :- Geocode successful (33.9078939, -84.2686724)
+[LOG] 2023-03-28 17:12:26 :- Attempting to geocode Menlo Park, CA
+[LOG] 2023-03-28 17:12:26 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:26 :- Geocode successful (37.4529598, -122.1817252)
+[LOG] 2023-03-28 17:12:26 :- Attempting to geocode 6402 Roosevelt Way NE, Seattle, WA 98115
+[LOG] 2023-03-28 17:12:26 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:27 :- Geocode successful (47.6752121, -122.3169014)
+[LOG] 2023-03-28 17:12:27 :- Attempting to geocode Norway
+[LOG] 2023-03-28 17:12:27 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:27 :- Geocode successful (60.472024, 8.468946)
+[LOG] 2023-03-28 17:12:27 :- Attempting to geocode 215 W Boyd St. Norman , OK 73069
+[LOG] 2023-03-28 17:12:27 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:28 :- Geocode successful (35.2112689, -97.4432228)
+[LOG] 2023-03-28 17:12:28 :- Attempting to geocode South Pasadena, CA, 91030
+[LOG] 2023-03-28 17:12:28 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:28 :- Geocode successful (34.1161196, -118.1503488)
+[LOG] 2023-03-28 17:12:28 :- Attempting to geocode 300 East Illinois Road, Lake Forest, IL 60045
+[LOG] 2023-03-28 17:12:28 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:29 :- Geocode successful (42.2502107, -87.8396679)
+[LOG] 2023-03-28 17:12:29 :- Attempting to geocode North Miami, Florida
+[LOG] 2023-03-28 17:12:29 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:12:29 :- Geocode successful (25.8900949, -80.1867138)
+[LOG] 2023-03-28 17:14:23 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/03/Artaic-Test-5.csv
+[LOG] 2023-03-28 17:14:34 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/03/Artaic-Test-5.csv
+[LOG] 2023-03-28 17:14:34 :- Headers found, skipping row
+[ERROR] [2] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [3] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [4] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [5] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [6] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [7] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [8] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [9] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [10] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [11] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [12] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [13] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [14] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [15] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [16] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [17] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [18] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [19] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [20] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [21] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [22] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [23] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [24] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [25] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [26] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [27] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [28] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [29] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [30] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [31] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [32] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [33] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [34] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [35] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [36] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [37] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [38] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [39] 2023-03-28 17:14:34 :- Geocode failed (Missing address, lat and lng)
+[LOG] 2023-03-28 17:15:24 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/03/Artaic-Test-5-1.csv
+[LOG] 2023-03-28 17:15:39 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/03/Artaic-Test-5-1.csv
+[LOG] 2023-03-28 17:15:39 :- Headers found, skipping row
+[LOG] 2023-03-28 17:15:39 :- Attempting to geocode 2831 Boardwalk, Atlantic City, NJ 08401
+[LOG] 2023-03-28 17:15:39 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:39 :- Geocode successful (39.3523692, -74.4445618)
+[LOG] 2023-03-28 17:15:39 :- Attempting to geocode 498 Red Apple Court, Woodbury, NY 10917
+[LOG] 2023-03-28 17:15:39 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:39 :- Geocode successful (41.3162964, -74.1257144)
+[LOG] 2023-03-28 17:15:40 :- Attempting to geocode Flatiron Domain, 10727 Domain Dr, Austin, TX 78758, USA
+[LOG] 2023-03-28 17:15:40 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:40 :- Geocode successful (30.3935303, -97.7255418)
+[LOG] 2023-03-28 17:15:40 :- Attempting to geocode Forest Park 1088 Park Plaza Drive Austin, TX 78753
+[LOG] 2023-03-28 17:15:40 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:40 :- Geocode successful (30.3487359, -97.6839735)
+[LOG] 2023-03-28 17:15:41 :- Attempting to geocode Silicon Labs, 400 W Cesar Chavez St, Austin, TX 78701, USA
+[LOG] 2023-03-28 17:15:41 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:41 :- Geocode successful (30.2648107, -97.748544)
+[LOG] 2023-03-28 17:15:41 :- Attempting to geocode 16738 State Highway 71, Lakeway, TX 78738, USA
+[LOG] 2023-03-28 17:15:41 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:41 :- Geocode successful (30.3203266, -98.0063607)
+[LOG] 2023-03-28 17:15:41 :- Attempting to geocode Hotel Indigo Austin Downtown, 810 Red River Street Austin, TX 78701, USA
+[LOG] 2023-03-28 17:15:41 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:42 :- Geocode successful (30.2691308, -97.7366133)
+[LOG] 2023-03-28 17:15:42 :- Attempting to geocode Texas Health Action, 101 W Koenig Lane, Austin, TX 78761, USA
+[LOG] 2023-03-28 17:15:42 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:42 :- Geocode successful (30.3220923, -97.7200454)
+[LOG] 2023-03-28 17:15:42 :- Attempting to geocode Hilltop Senior Living, 525 S Holly St, Denver, CO 80246, USA
+[LOG] 2023-03-28 17:15:42 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:43 :- Geocode successful (39.7066688, -104.9230957)
+[LOG] 2023-03-28 17:15:43 :- Attempting to geocode 251 US-1 Ste 101, Falmouth, ME 04105, USA
+[LOG] 2023-03-28 17:15:43 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:43 :- Geocode successful (43.7261457, -70.2311778)
+[LOG] 2023-03-28 17:15:43 :- Attempting to geocode Fremont, CA 94538
+[LOG] 2023-03-28 17:15:43 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:44 :- Geocode successful (37.5042267, -121.9643745)
+[LOG] 2023-03-28 17:15:44 :- Attempting to geocode 200 Archway Ct, Lynchburg, VA 24502, USA
+[LOG] 2023-03-28 17:15:44 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:44 :- Geocode successful (37.363641, -79.246789)
+[LOG] 2023-03-28 17:15:44 :- Attempting to geocode 6350 Hollister Ave, Goleta, CA 93117
+[LOG] 2023-03-28 17:15:44 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:44 :- Geocode successful (34.4327351, -119.8446229)
+[LOG] 2023-03-28 17:15:44 :- Attempting to geocode 60 Tanager Way, Grand Cayman KY1-1303, Cayman Islands
+[LOG] 2023-03-28 17:15:44 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:45 :- Geocode successful (19.3221698, -81.2408689)
+[LOG] 2023-03-28 17:15:45 :- Attempting to geocode Kula, Hawaii, 96790
+[LOG] 2023-03-28 17:15:45 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:45 :- Geocode successful (20.791352, -156.3248772)
+[LOG] 2023-03-28 17:15:45 :- Attempting to geocode Kula, Hawaii, 96790
+[LOG] 2023-03-28 17:15:45 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:45 :- Geocode successful (20.791352, -156.3248772)
+[LOG] 2023-03-28 17:15:45 :- Attempting to geocode Saddle River, New Jersey 07458
+[LOG] 2023-03-28 17:15:45 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:46 :- Geocode successful (41.0317637, -74.1020866)
+[LOG] 2023-03-28 17:15:46 :- Attempting to geocode Wayne, New Jersey 07470
+[LOG] 2023-03-28 17:15:46 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:46 :- Geocode successful (40.9253725, -74.2765441)
+[LOG] 2023-03-28 17:15:46 :- Attempting to geocode Belmont, MA 02478
+[LOG] 2023-03-28 17:15:46 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:46 :- Geocode successful (42.3958849, -71.1745579)
+[LOG] 2023-03-28 17:15:46 :- Attempting to geocode 49 Veronica Ave. Somerset, NJ 08873
+[LOG] 2023-03-28 17:15:46 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:47 :- Geocode successful (40.478608, -74.5004132)
+[LOG] 2023-03-28 17:15:47 :- Attempting to geocode 100 Riverside Blvd, New York, NY 10069
+[LOG] 2023-03-28 17:15:47 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:47 :- Geocode successful (40.77577, -73.9895914)
+[LOG] 2023-03-28 17:15:47 :- Attempting to geocode 499 Mayfield Rd, Clarion, PA 16214
+[LOG] 2023-03-28 17:15:47 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:48 :- Geocode successful (41.1913009, -79.3843733)
+[LOG] 2023-03-28 17:15:48 :- Attempting to geocode Bartonville, TX, 76226
+[LOG] 2023-03-28 17:15:48 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:48 :- Geocode successful (33.0731775, -97.1316788)
+[LOG] 2023-03-28 17:15:48 :- Attempting to geocode 2505 Cedar Lane Vienna, VA 22180
+[LOG] 2023-03-28 17:15:48 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:48 :- Geocode successful (38.888557, -77.239571)
+[LOG] 2023-03-28 17:15:49 :- Attempting to geocode 5050 Ave Maria Blvd, Ave Maria, FL 34142
+[LOG] 2023-03-28 17:15:49 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:49 :- Geocode successful (26.3366663, -81.4372098)
+[LOG] 2023-03-28 17:15:49 :- Attempting to geocode 37 Pleasant St, Brunswick, ME 04011
+[LOG] 2023-03-28 17:15:49 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:49 :- Geocode successful (43.9129465, -69.9692292)
+[LOG] 2023-03-28 17:15:49 :- Attempting to geocode Ponte Vedra Beach, FL, 32082
+[LOG] 2023-03-28 17:15:49 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:49 :- Geocode successful (30.2400058, -81.3852595)
+[LOG] 2023-03-28 17:15:50 :- Attempting to geocode 708 N 600 E, Fair Oaks, IN 47943
+[LOG] 2023-03-28 17:15:50 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:50 :- Geocode successful (41.0086518, -87.2769655)
+[LOG] 2023-03-28 17:15:50 :- Attempting to geocode 25 Mountainview Blvd. Unit 1. Basking Ridge , NJ 07920
+[LOG] 2023-03-28 17:15:50 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:50 :- Geocode successful (40.6439071, -74.5772653)
+[LOG] 2023-03-28 17:15:50 :- Attempting to geocode Lincoln, CA
+[LOG] 2023-03-28 17:15:50 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:51 :- Geocode successful (38.891565, -121.2930079)
+[LOG] 2023-03-28 17:15:51 :- Attempting to geocode 5768 Buford Hwy NE, Doraville, GA 30340
+[LOG] 2023-03-28 17:15:51 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:51 :- Geocode successful (33.9078939, -84.2686724)
+[LOG] 2023-03-28 17:15:51 :- Attempting to geocode Menlo Park, CA
+[LOG] 2023-03-28 17:15:51 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:52 :- Geocode successful (37.4529598, -122.1817252)
+[LOG] 2023-03-28 17:15:52 :- Attempting to geocode 6402 Roosevelt Way NE, Seattle, WA 98115
+[LOG] 2023-03-28 17:15:52 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:52 :- Geocode successful (47.6752121, -122.3169014)
+[LOG] 2023-03-28 17:15:52 :- Attempting to geocode Norway
+[LOG] 2023-03-28 17:15:52 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:52 :- Geocode successful (60.472024, 8.468946)
+[LOG] 2023-03-28 17:15:52 :- Attempting to geocode 215 W Boyd St. Norman , OK 73069
+[LOG] 2023-03-28 17:15:52 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:53 :- Geocode successful (35.2112689, -97.4432228)
+[LOG] 2023-03-28 17:15:53 :- Attempting to geocode South Pasadena, CA, 91030
+[LOG] 2023-03-28 17:15:53 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:53 :- Geocode successful (34.1161196, -118.1503488)
+[LOG] 2023-03-28 17:15:53 :- Attempting to geocode 300 East Illinois Road, Lake Forest, IL 60045
+[LOG] 2023-03-28 17:15:53 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:54 :- Geocode successful (42.2502107, -87.8396679)
+[LOG] 2023-03-28 17:15:54 :- Attempting to geocode North Miami, Florida
+[LOG] 2023-03-28 17:15:54 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-03-28 17:15:54 :- Geocode successful (25.8900949, -80.1867138)
+[LOG] 2023-03-28 20:52:14 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/03/Artaic-Test-5-2.csv
+[LOG] 2023-04-03 22:20:43 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/04/Artaic-Test-8.csv
+[LOG] 2023-04-03 22:21:19 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/04/Artaic-Test-8-1.csv
+[LOG] 2023-04-03 22:21:27 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/04/Artaic-Test-8-1.csv
+[LOG] 2023-04-03 22:21:27 :- Headers found, skipping row
+[LOG] 2023-04-03 22:21:27 :- Attempting to geocode 2831 Boardwalk, Atlantic City, NJ 08401
+[LOG] 2023-04-03 22:21:27 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:28 :- Geocode successful (39.3523692, -74.4445618)
+[LOG] 2023-04-03 22:21:28 :- Attempting to geocode 498 Red Apple Court, Woodbury, NY 10917
+[LOG] 2023-04-03 22:21:28 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:29 :- Geocode successful (41.3162964, -74.1257144)
+[LOG] 2023-04-03 22:21:29 :- Attempting to geocode Flatiron Domain, 10727 Domain Dr, Austin, TX 78758, USA
+[LOG] 2023-04-03 22:21:29 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:29 :- Geocode successful (30.3935303, -97.7255418)
+[LOG] 2023-04-03 22:21:29 :- Attempting to geocode Forest Park 1088 Park Plaza Drive Austin, TX 78753
+[LOG] 2023-04-03 22:21:29 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:30 :- Geocode successful (30.3487359, -97.6839735)
+[LOG] 2023-04-03 22:21:30 :- Attempting to geocode Silicon Labs, 400 W Cesar Chavez St, Austin, TX 78701, USA
+[LOG] 2023-04-03 22:21:30 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:30 :- Geocode successful (30.2648107, -97.748544)
+[LOG] 2023-04-03 22:21:30 :- Attempting to geocode 16738 State Highway 71, Lakeway, TX 78738, USA
+[LOG] 2023-04-03 22:21:30 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:31 :- Geocode successful (30.3203266, -98.0063607)
+[LOG] 2023-04-03 22:21:31 :- Attempting to geocode Hotel Indigo Austin Downtown, 810 Red River Street Austin, TX 78701, USA
+[LOG] 2023-04-03 22:21:31 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:31 :- Geocode successful (30.2691308, -97.7366133)
+[LOG] 2023-04-03 22:21:31 :- Attempting to geocode Texas Health Action, 101 W Koenig Lane, Austin, TX 78761, USA
+[LOG] 2023-04-03 22:21:31 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:32 :- Geocode successful (30.3220923, -97.7200454)
+[LOG] 2023-04-03 22:21:32 :- Attempting to geocode Hilltop Senior Living, 525 S Holly St, Denver, CO 80246, USA
+[LOG] 2023-04-03 22:21:32 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:32 :- Geocode successful (39.7066688, -104.9230957)
+[LOG] 2023-04-03 22:21:32 :- Attempting to geocode 251 US-1 Ste 101, Falmouth, ME 04105, USA
+[LOG] 2023-04-03 22:21:32 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:33 :- Geocode successful (43.7261457, -70.2311778)
+[LOG] 2023-04-03 22:21:33 :- Attempting to geocode Fremont, CA 94538
+[LOG] 2023-04-03 22:21:33 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:34 :- Geocode successful (37.5042267, -121.9643745)
+[LOG] 2023-04-03 22:21:34 :- Attempting to geocode 200 Archway Ct, Lynchburg, VA 24502, USA
+[LOG] 2023-04-03 22:21:34 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:34 :- Geocode successful (37.363655, -79.246799)
+[LOG] 2023-04-03 22:21:34 :- Attempting to geocode 6350 Hollister Ave, Goleta, CA 93117
+[LOG] 2023-04-03 22:21:34 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:34 :- Geocode successful (34.4327351, -119.8446229)
+[LOG] 2023-04-03 22:21:34 :- Attempting to geocode 60 Tanager Way, Grand Cayman KY1-1303, Cayman Islands
+[LOG] 2023-04-03 22:21:34 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:35 :- Geocode successful (19.3221698, -81.2408689)
+[LOG] 2023-04-03 22:21:35 :- Attempting to geocode Kula, Hawaii, 96790
+[LOG] 2023-04-03 22:21:35 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:35 :- Geocode successful (20.791352, -156.3248772)
+[LOG] 2023-04-03 22:21:35 :- Attempting to geocode Kula, Hawaii, 96790
+[LOG] 2023-04-03 22:21:35 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:36 :- Geocode successful (20.791352, -156.3248772)
+[LOG] 2023-04-03 22:21:36 :- Attempting to geocode Saddle River, New Jersey 07458
+[LOG] 2023-04-03 22:21:36 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:36 :- Geocode successful (41.0317637, -74.1020866)
+[LOG] 2023-04-03 22:21:36 :- Attempting to geocode Wayne, New Jersey 07470
+[LOG] 2023-04-03 22:21:36 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:36 :- Geocode successful (40.9253725, -74.2765441)
+[LOG] 2023-04-03 22:21:37 :- Attempting to geocode Belmont, MA 02478
+[LOG] 2023-04-03 22:21:37 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:37 :- Geocode successful (42.3958849, -71.1745579)
+[LOG] 2023-04-03 22:21:37 :- Attempting to geocode 49 Veronica Ave. Somerset, NJ 08873
+[LOG] 2023-04-03 22:21:37 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:37 :- Geocode successful (40.478608, -74.5004132)
+[LOG] 2023-04-03 22:21:37 :- Attempting to geocode 100 Riverside Blvd, New York, NY 10069
+[LOG] 2023-04-03 22:21:37 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:38 :- Geocode successful (40.77577, -73.9895914)
+[LOG] 2023-04-03 22:21:38 :- Attempting to geocode 499 Mayfield Rd, Clarion, PA 16214
+[LOG] 2023-04-03 22:21:38 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:38 :- Geocode successful (41.1913009, -79.3843733)
+[LOG] 2023-04-03 22:21:38 :- Attempting to geocode Bartonville, TX, 76226
+[LOG] 2023-04-03 22:21:38 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:38 :- Geocode successful (33.0731775, -97.1316788)
+[LOG] 2023-04-03 22:21:39 :- Attempting to geocode 2505 Cedar Lane Vienna, VA 22180
+[LOG] 2023-04-03 22:21:39 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:39 :- Geocode successful (38.888557, -77.239571)
+[LOG] 2023-04-03 22:21:39 :- Attempting to geocode 5050 Ave Maria Blvd, Ave Maria, FL 34142
+[LOG] 2023-04-03 22:21:39 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:39 :- Geocode successful (26.3366663, -81.4372098)
+[LOG] 2023-04-03 22:21:39 :- Attempting to geocode 37 Pleasant St, Brunswick, ME 04011
+[LOG] 2023-04-03 22:21:39 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:40 :- Geocode successful (43.9129465, -69.9692292)
+[LOG] 2023-04-03 22:21:40 :- Attempting to geocode Ponte Vedra Beach, FL, 32082
+[LOG] 2023-04-03 22:21:40 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:40 :- Geocode successful (30.2400058, -81.3852595)
+[LOG] 2023-04-03 22:21:40 :- Attempting to geocode 708 N 600 E, Fair Oaks, IN 47943
+[LOG] 2023-04-03 22:21:40 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:40 :- Geocode successful (41.0086518, -87.2769655)
+[LOG] 2023-04-03 22:21:41 :- Attempting to geocode 25 Mountainview Blvd. Unit 1. Basking Ridge , NJ 07920
+[LOG] 2023-04-03 22:21:41 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:41 :- Geocode successful (40.6439071, -74.5772653)
+[LOG] 2023-04-03 22:21:41 :- Attempting to geocode Lincoln, CA
+[LOG] 2023-04-03 22:21:41 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:41 :- Geocode successful (38.891565, -121.2930079)
+[LOG] 2023-04-03 22:21:41 :- Attempting to geocode 5768 Buford Hwy NE, Doraville, GA 30340
+[LOG] 2023-04-03 22:21:41 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:42 :- Geocode successful (33.9078939, -84.2686724)
+[LOG] 2023-04-03 22:21:42 :- Attempting to geocode Menlo Park, CA
+[LOG] 2023-04-03 22:21:42 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:43 :- Geocode successful (37.4529598, -122.1817252)
+[LOG] 2023-04-03 22:21:43 :- Attempting to geocode 6402 Roosevelt Way NE, Seattle, WA 98115
+[LOG] 2023-04-03 22:21:43 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:43 :- Geocode successful (47.6752121, -122.3169014)
+[LOG] 2023-04-03 22:21:43 :- Attempting to geocode Norway
+[LOG] 2023-04-03 22:21:43 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:43 :- Geocode successful (60.472024, 8.468946)
+[LOG] 2023-04-03 22:21:44 :- Attempting to geocode 215 W Boyd St. Norman , OK 73069
+[LOG] 2023-04-03 22:21:44 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:44 :- Geocode successful (35.2112689, -97.4432228)
+[LOG] 2023-04-03 22:21:44 :- Attempting to geocode South Pasadena, CA, 91030
+[LOG] 2023-04-03 22:21:44 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:44 :- Geocode successful (34.1161196, -118.1503488)
+[LOG] 2023-04-03 22:21:45 :- Attempting to geocode 300 East Illinois Road, Lake Forest, IL 60045
+[LOG] 2023-04-03 22:21:45 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:45 :- Geocode successful (42.2502107, -87.8396679)
+[LOG] 2023-04-03 22:21:45 :- Attempting to geocode North Miami, Florida
+[LOG] 2023-04-03 22:21:45 :- Geocode key in use: AIzaSyDsMxkC_tRzdovJl539vpk4uI--zxJfSWM
+[LOG] 2023-04-03 22:21:45 :- Geocode successful (25.8900949, -80.1867138)
+[LOG] 2023-04-03 22:48:30 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/04/Artaic-Test-9.csv
+[LOG] 2023-04-03 22:48:40 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/04/Artaic-Test-9.csv
+[LOG] 2023-04-03 22:48:40 :- Headers found, skipping row
+[ERROR] [2] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [3] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [4] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [5] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [6] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [7] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [8] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [9] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [10] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [11] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [12] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [13] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [14] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [15] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [16] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [17] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [18] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [19] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [20] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [21] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [22] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [23] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [24] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [25] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [26] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [27] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [28] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [29] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [30] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [31] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [32] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [33] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [34] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [35] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [36] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [37] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [38] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [39] 2023-04-03 22:48:40 :- Geocode failed (Missing address, lat and lng)
+[LOG] 2023-04-03 22:49:51 :- Loading file /Users/brandonpae/Sites/map/wp-content/uploads/2023/04/Artaic-Test-9.csv
+[LOG] 2023-04-03 22:49:51 :- Headers found, skipping row
+[ERROR] [2] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [3] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [4] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [5] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [6] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [7] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [8] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [9] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [10] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [11] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [12] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [13] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [14] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [15] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [16] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [17] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [18] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [19] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [20] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [21] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [22] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [23] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [24] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [25] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [26] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [27] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [28] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [29] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [30] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [31] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [32] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [33] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [34] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [35] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [36] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [37] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [38] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
+[ERROR] [39] 2023-04-03 22:49:51 :- Geocode failed (Missing address, lat and lng)
